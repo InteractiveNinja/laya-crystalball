@@ -1,0 +1,3 @@
+fastapi==0.141.1
+laya==0.3.4
+uvicorn[standard]==0.41.0
