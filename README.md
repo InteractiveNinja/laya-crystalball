@@ -1,4 +1,5 @@
 # Laya Crystal Ball
+> **Warnung:** Dieses Projekt wurde (weitgehend) KI-generiert. Es besteht keine Garantie für die Qualität und Funktion des Codes.
 
 A FastAPI service that wraps [Laya](https://pypi.org/project/laya/), a fast non-autoregressive decision engine. Send it a **question** and a list of **answer possibilities**, and it returns the option it chose — with a calibrated confidence score and per-option probabilities.
 
